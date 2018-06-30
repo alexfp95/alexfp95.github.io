@@ -124,7 +124,6 @@ a:focus, a:hover {
   padding: 200px 0;
   text-align: center;
   color: white;
-  /*background: url("../img/intro-bg.jpg") no-repeat bottom center scroll;*/
   background: url("../img/d2.jpg") no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
@@ -180,66 +179,11 @@ a:focus, a:hover {
   background: rgba(255, 255, 255, 0.1);
 }
 
-.content-section {
-  padding-top: 150px;
-  padding-bottom: 150px;
-}
-
 .intro-img {
     background: url(../img/adfuentesp.png) no-repeat center;
     width: 350px;
     height: 350px;
     border-radius: 50%;
-    background-size: contain;
-    margin: 0 auto;
-}
-
-section#portfolio {
-    padding-top: 60px;
-    padding-bottom: 40px;
-}
-
-.separator-section {
-    padding-top: 10px;
-    padding-bottom: 10px;
-	background-color: white;
-}
-
-.portfolio-section {
-	color: black;
-	background-color: white;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-}
-
-.game-descr {
-	width: 90%;
-}
-
-.section-subtitle {
-	margin-top: -30px;
-    color: #bd92ff;
-}
-
-.survivalmaze-section .game-descr .title {
-	color: #63c4ff;
-}
-
-.survivalmaze-section {
-	color: white;
-	background-color: black;
-	/*background: url("../img/survival-maze/sm1.png") no-repeat center center scroll;*/
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-}
-
-.sm-img-1 {
-    background: url("../img/survival-maze/sm1.png") no-repeat center;
-    height: 400px;
     background-size: contain;
     margin: 0 auto;
 }
@@ -286,15 +230,6 @@ ul.banner-social-buttons {
   ul.banner-social-buttons li:last-child {
     margin-bottom: 0;
   }
-}
-
-footer {
-  padding: 50px 0;
-}
-
-footer p {
-  font-size: 14px;
-  margin: 0;
 }
 
 ::-moz-selection {

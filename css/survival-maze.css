@@ -1,0 +1,22 @@
+.survivalmaze-section .title {
+	color: #63c4ff;
+}
+
+
+.survivalmaze-section {
+	color: white;
+	background-color: black;
+	/*background: url("../img/survival-maze/sm1.png") no-repeat center center scroll;*/
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+
+.sm-img-1 {
+    background: url("../img/survival-maze/sm1.png") no-repeat center;
+    height: 400px;
+    background-size: contain;
+    margin: 0 auto;
+}
