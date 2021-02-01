@@ -27,6 +27,17 @@ section#portfolio {
     color: #bd92ff;
 }
 
+section#comingsoon {
+  padding-top: 60px;
+  padding-bottom: 35px;
+  color: black;
+  background-color: white;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 /* FOOTER */
 
 footer {
